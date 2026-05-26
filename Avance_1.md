@@ -79,16 +79,17 @@ Mostrar menú principal
 
 Leer opción
 
-SI opción = Registrar producto ENTONCES
 
-    Solicitar código
-    Solicitar nombre
-    Solicitar precio
-    Solicitar stock
+SI opción = Registrar producto ENTONCES 
 
-    Guardar producto en archivo binario
+      Solicitar Còdigo
+      Solicitar Nombre
+      Solicitar Precio
+      Solicitar Stock
 
-    Mostrar mensaje de éxito
+      Guardar producto en archivo binario
+
+      Mostrar mensaje de exito
 
 FIN SI
 
