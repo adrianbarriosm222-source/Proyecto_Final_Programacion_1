@@ -1,0 +1,10 @@
+REPORTE DE PRODUCTOS
+
+80010104 Leche en polvo Q35
+80010105 Cereal Choco Krispy Q30
+80010106 Cereal Sucaritas Q25
+80010107 Cereal Simple Q20
+80010108 Cereal Gran Dia Q25
+80010109 Gelatina Sin Sabor Q10
+8001010 Arroz Q8
+8001011 Frijol Negro Q9
